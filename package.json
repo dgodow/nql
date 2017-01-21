@@ -1,0 +1,19 @@
+{
+  "name": "nql",
+  "version": "0.0.1",
+  "description": "A simple project for making Postgres queries in natural language",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgodow/nql.git"
+  },
+  "author": "David Godow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgodow/nql/issues"
+  },
+  "homepage": "https://github.com/dgodow/nql#readme"
+}
