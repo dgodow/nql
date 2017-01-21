@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dgodow/nql/issues"
   },
-  "homepage": "https://github.com/dgodow/nql#readme"
+  "homepage": "https://github.com/dgodow/nql#readme",
+  "dependencies": {
+    "pg": "^6.1.2"
+  }
 }
