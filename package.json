@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dgodow/nql#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "pg": "^6.1.2"
   }
 }
